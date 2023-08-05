@@ -1,7 +1,6 @@
 # restaurant-application
-The Little Lemon Restaurant is a web application where people can make booking.  
-
 Hello, Reviewers!
+The Little Lemon Restaurant is a web application where people can make booking.  
 
 You can run available unittests from VS terminal using command: python manage.py test tests/
 Don't forget to activate vitruan env and cd into littlelemon directory before running unit-tests command.
